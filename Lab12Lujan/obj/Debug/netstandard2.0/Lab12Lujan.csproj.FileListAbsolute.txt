@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\Lab12Lujan\Lab12Lujan\Lab12Lujan\bin\Debug\netstandard2.0\Lab12Lujan.deps.json
+C:\Users\USER\source\repos\Lab12Lujan\Lab12Lujan\Lab12Lujan\bin\Debug\netstandard2.0\Lab12Lujan.dll
+C:\Users\USER\source\repos\Lab12Lujan\Lab12Lujan\Lab12Lujan\bin\Debug\netstandard2.0\ref\Lab12Lujan.dll
+C:\Users\USER\source\repos\Lab12Lujan\Lab12Lujan\Lab12Lujan\bin\Debug\netstandard2.0\Lab12Lujan.pdb
+C:\Users\USER\source\repos\Lab12Lujan\Lab12Lujan\Lab12Lujan\obj\Debug\netstandard2.0\Lab12Lujan.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Lab12Lujan\Lab12Lujan\Lab12Lujan\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\USER\source\repos\Lab12Lujan\Lab12Lujan\Lab12Lujan\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\USER\source\repos\Lab12Lujan\Lab12Lujan\Lab12Lujan\obj\Debug\netstandard2.0\Lab12Lujan.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\Lab12Lujan\Lab12Lujan\Lab12Lujan\obj\Debug\netstandard2.0\Lab12Lujan.AssemblyInfo.cs
+C:\Users\USER\source\repos\Lab12Lujan\Lab12Lujan\Lab12Lujan\obj\Debug\netstandard2.0\Lab12Lujan.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\Lab12Lujan\Lab12Lujan\Lab12Lujan\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\USER\source\repos\Lab12Lujan\Lab12Lujan\Lab12Lujan\obj\Debug\netstandard2.0\Lab12Lujan.dll
+C:\Users\USER\source\repos\Lab12Lujan\Lab12Lujan\Lab12Lujan\obj\Debug\netstandard2.0\ref\Lab12Lujan.dll
+C:\Users\USER\source\repos\Lab12Lujan\Lab12Lujan\Lab12Lujan\obj\Debug\netstandard2.0\Lab12Lujan.pdb
